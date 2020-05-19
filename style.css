@@ -1,0 +1,176 @@
+body{
+    background-image: url('images/leaders-1.jpg');
+    height:650px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+    #sec1{
+    background-image: url('images/leaders-1.jpg');
+    height:650px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+}
+
+
+body{
+    height:100%;
+    width:100%;
+}
+#sec2{
+    
+   margin-top: 0px;
+    height:340px;
+}
+
+#section3{
+    height:500px;
+}
+
+
+#ul1 {
+    font-family: monospace;
+    font-size: 22px;
+    float :right;
+    
+}
+
+#ul1 li a{
+    color:rgb(1, 149, 219);
+}
+
+.bottom-left {
+    position: absolute;
+    color:white;
+    bottom: 150px;
+    left: 16px;
+}
+
+#center{
+    font-size: 50px;
+}
+
+p strong{
+    font-size: 30px;
+    font-family: monospace;
+}
+
+p{
+    font-size:20px;
+    font-family: monospace;
+
+}
+
+#button1{
+    height:40px;
+    width:200px;
+    border-radius: 10px;
+    background-color:rgb(1, 149, 219) ;
+    border: none;
+    color:white;
+    outline:none;
+}
+
+#button1:hover{
+    transform: scale(1.2,1.2);
+}
+
+.boxmsg{
+    height:200px;
+    position:center;
+    width:1220px;
+    border:1px solid rgb(1, 149, 219);
+    margin:auto;
+    margin-right: 10px;  
+    padding-top: 30px;
+    border-radius:10px;
+    background-color: white;
+}
+
+#footer1{
+    position: absolute;
+    color:black;
+    top:660px;
+    left: 16px;
+    overflow-x: auto;
+    font-size:18px;
+
+}
+.box{
+    width: 150px;
+   border: 1px solid rgb(1, 149, 219)) ;
+   height:150px;
+   border-radius: 10px;
+   float:left;
+   text-align: center  ;
+   color:white;
+   overflow: hidden;
+   transition:  width 2s;
+   }
+
+   .box:hover{
+    transform:scale(1.2,1.2);
+   }
+
+#sect3{
+    height:400px;
+    margin-top:100px;
+}
+
+
+.circle{
+    width: 150px;
+   border: 1px solid rgb(1, 149, 219) ;
+   height:150px;
+   border-radius: 50%;
+   float:left;
+   
+   color:white;
+   overflow: hidden;
+   }
+
+
+   .circle:hover{
+    transform:scale(1.2,1.2);
+   }
+
+   .box2{
+       margin-left: 30px;;
+       height:540px;
+       width:1200px;
+       border:1px solid rgb(1, 149, 219);
+       border-radius: 10px;
+       overflow: hidden;
+    
+   }
+  
+   .newbox{
+    width: 200px;
+   border: 1px solid rgb(1, 149, 219) ;
+   height:200px;
+   border-radius: 10px;
+   float:left;
+   text-align: center  ;
+   color:white;
+   overflow: hidden;
+   
+   }
+
+   .rect{
+    width: 700px;
+    border: 1px solid rgb(1, 149, 219) ;
+    height:150px;
+    border-radius: 10px;
+    float:left;
+    text-align: center  ;
+    color:white;
+    overflow: hidden;
+
+   }
+
+   #last{
+       background-color: white;
+       color:black;
+
+   }
